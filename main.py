@@ -1,6 +1,6 @@
 import pandas as pd
 import yfinance as yf
-from datetime import datetime, date, timedelta
+from datetime import timedelta
 '''
 Action that being used:
 MGLU3.SA
